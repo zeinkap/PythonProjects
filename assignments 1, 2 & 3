@@ -1,10 +1,10 @@
 #assignment 1
-dogAge = (int(input("What is your dog's age?")))
+dogAge = int(input("What is your dog's age?"))
 print("In dog years, your dog is ", dogAge * 7, "years old.")
 
 
 #assignment 2
-user = (int(input("Type any number:")))
+user = int(input("Type any number:"))
 if user % 2 == 0:
   print("The number", user, "is even.")
 else:
