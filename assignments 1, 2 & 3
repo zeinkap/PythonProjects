@@ -1,0 +1,27 @@
+#assignment 1
+dogAge = (int(input("What is your dog's age?")))
+print("In dog years, your dog is ", dogAge * 7, "years old.")
+
+
+#assignment 2
+user = (int(input("Type any number:")))
+if user % 2 == 0:
+  print("The number", user, "is even.")
+else:
+  print("The number", user, "is odd.")
+
+
+#assignment 3
+def userInfo():
+  userName = str(input("What is your name?"))
+  print("Nice to meet you", userName)
+  userColor = str(input("What is your favorite color?"))
+  print(userColor, "?", "That's a nice color")
+  userFood = str(input("What is your favorite food?"))
+  print(userFood, "sounds yummy")
+userInfo()
+#BONUS:
+userLeave = input("Would you like to leave now? :( ")
+while userLeave == "no":
+  userInfo()
+print("Have a blessed day!")
