@@ -8,10 +8,7 @@ def guessingGame():
 
     while guessesLeft:
         guess = int(input("Take a guess:"))
-
-
         guessesLeft -= 1
-
         if guess == myNum:
             print("You guessed right!")
             break
