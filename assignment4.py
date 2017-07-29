@@ -6,7 +6,7 @@ def temp():
     print("In fahrenheit, the temperature was:",fahrenheit,"°F")
 temp()
 z = input("Do you want to end the program?")
-while z != 'no':
+while z == 'no':
     temp()
 print("Have a good day!")
 
