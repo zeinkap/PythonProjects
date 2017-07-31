@@ -1,0 +1,9 @@
+#assignment 8
+print("Please enter the following values for the quadratic equation at the corresponding prompts")
+a=int(input("What is the value of a:"))
+b=int(input("What is the value of b:"))
+c=int(input("What is the value of c:"))
+x=int(input("What is the value of x:"))
+solution= a*(x**2)+b*x+c
+print("The following quadratic was entered:",a,"X^2+",b,"X+",c)
+print("The value of the quadratic is:",solution)
