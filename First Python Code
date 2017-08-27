@@ -1,4 +1,4 @@
-
+#Temperature 
 t = int(input("What is the temperature outside?"))
 def tempFunction():
     if t > 60 and t < 90:
