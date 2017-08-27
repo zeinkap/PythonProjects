@@ -1,4 +1,4 @@
-#Assignment 4
+#Assignment 4: Prime Number
 def temp():
     fahrenheit= int(input("Enter temperature in fahrenheit: "))
     celsius= (fahrenheit-32) * 5/9
