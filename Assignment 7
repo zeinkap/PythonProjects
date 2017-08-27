@@ -1,4 +1,4 @@
-#guessing game
+#Assignment 7: Guessing Game
 def guessingGame():
     import random
     myNum = random.randint(1, 10)
