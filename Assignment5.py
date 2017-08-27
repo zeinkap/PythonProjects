@@ -1,4 +1,4 @@
-#Assignment 5
+#Assignment 5: User Input
 celsius = 0
 while celsius <= 100:
     fahrenheit=(celsius + 32)
