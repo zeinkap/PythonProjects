@@ -1,4 +1,4 @@
-#assignment 8
+#Assignment 8: Quadratic
 print("Please enter the following values for the quadratic equation at the corresponding prompts")
 a=int(input("What is the value of a:"))
 b=int(input("What is the value of b:"))
