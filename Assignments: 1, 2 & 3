@@ -1,9 +1,9 @@
-#Assignment 1: Dog's age in dog years
+#Assignment 1: Dog Age
 dogAge = int(input("What is your dog's age?"))
 print("In dog years, your dog is ", dogAge * 7, "years old.")
 
 
-#Assignment 2: Determining odd or even number
+#Assignment 2: Even or Odd
 user = int(input("Type any number:"))
 if user % 2 == 0:
   print("The number", user, "is even.")
@@ -11,7 +11,7 @@ else:
   print("The number", user, "is odd.")
 
 
-#Assignment 3
+#Assignment 3: Greeting
 def userInfo():
   userName = str(input("What is your name?"))
   print("Nice to meet you", userName)
