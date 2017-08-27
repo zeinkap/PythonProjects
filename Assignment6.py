@@ -1,4 +1,4 @@
-#Assignment 6
+#Assignment 6: Guessing Game
 guesses = 0
 myList = []
 while guesses < 5:
