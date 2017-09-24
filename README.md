@@ -11,7 +11,7 @@ _This program asks the user for their dogs age and then prints the results in do
 ### **Even or Odd:**
 _This program asks the user for a number and then print the output telling the user if the number is even or odd._
 
-### **Greeting program:**
+### **Greeting Program:**
 _This program asks the user for various data about themself and prints output accordingly._
 
 This program also does the following:
